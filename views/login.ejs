@@ -1,0 +1,23 @@
+<% layout('layout') -%>
+
+<div class="login">
+  <h2>Login</h2>
+    <form action="/login" name="login_forms" method="post">
+        <div>
+            <i class="fa fa-at"></i>
+            <input id="login_email" type="text" name="email" placeholder="Email">
+            <span class="errEmail" style="color: red"></span>
+        </div>
+        <br>
+        <div>
+            <i class="fa fa-key" aria-hidden="true"></i>
+            <input id="login_password" type="password" name="password" placeholder="Password">
+            <span class="errPass" style="color: red"></span>
+        </div>
+        <br>
+        <div class="login_btn">
+            <button type="submit" id="btn1">Login</button>
+        </div>
+    </form>
+    <span>Already have an account?<a href="/register"> Registration now</a></span>
+</div><br>

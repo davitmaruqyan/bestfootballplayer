@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title><%= title %></title>
+    <link rel='stylesheet' href='/stylesheets/style.css' />
+    <link rel="stylesheet" href="/stylesheets/css/font-awesome.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.min.js"></script>
+
+  </head>
+  <body>
+
+    <div class="container">
+<div class="tim">
+        <span id="time"></span>
+      </div>
+<div id="particle-canvas"></div>
+      <header>
+
+          <ul class="list-menu">
+            <li><a href="/">HOME</a></li>
+            <li><a href="#">TOOLS</a></li>
+	          <li><a href="/news">NEWS</a></li>
+            <li><a href="/help">HELP</a></li>
+          </ul>
+        <div class="contact">
+          <a href="/register">REGISTRATION</a>
+          <a href="/login">SIGN UP</a>
+        </div>
+      </header>
+      <%- body -%>
+
+      <footer>
+
+        <div class="firstItems">
+          <a href="/about">ABOUT</a>
+          <p>Phone Number: +374-94-00-55-00</p>
+          <p>Adress: Everywhere</p>
+          <p>Fax: +374-312-00-55</p>
+        </div>
+        <div class="lastItems">
+          <p>CONTACT</p>
+          <a href="https://www.facebook.com/" target="_blank"><i class="fa fa-facebook-square" aria-hidden="true"></i></a>
+          <a href="https://twitter.com/" target="_blank"><i class="fa fa-twitter-square" aria-hidden="true"></i></a>
+          <a href="https://www.instagram.com/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+          <a href="https://accounts.google.com/ServiceLogin/identifier?service=mail&passive=true&rm=false&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F&ss=1&scc=1&ltmpl=default&ltmplcache=2&emr=1&osid=1&flowName=GlifWebSignIn&flowEntry=ServiceLogin" target="_blank"><i class="fa fa-google" aria-hidden="true"></i></a>
+        </div>
+      </footer>
+<div id="googleMap" style="width:100%;height:400px;"></div>
+    </div>
+    <script src="/jquery/jquery-3.2.1.js"></script>
+    <script src="/javascripts/script.js" ></script>
+    <script src="/javascripts/register.js"></script>
+    <script src="/javascripts/login.js"></script>
+    <script src="/javascripts/edite.js"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCHBSbgwIvByQcsd8URwmF1hQeSZdMNDLM&callback=myMap"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.2.5/js/swiper.min.js"></script>
+  </body>
+</html>

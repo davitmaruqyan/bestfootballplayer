@@ -1,0 +1,34 @@
+<% layout('layout') -%>
+<div style="width: 97%;  margin-top: 20px; margin: 0 auto; display: flex; flex-wrap:wrap; justify-content:space-between">
+  <% for (var i in us){%>
+    <div style="width: 300px; height:530px; background-image: url(../images/bgdiv.jpg); margin-top: 10px; border: 2px solid #002933; border-radius: 5px; display: flex; flex-direction: column; align-items:center">
+      <div style="width:230px; margin-top: 20px;">
+        <img src="../player_images/<%=us[i].image%>" alt="<%=us[i].name%>" style="width: 100%">
+      </div>
+        <p style="font-size:14px; margin-top:10px; color: #fff"><strong>NAME-</strong><%= us[i].name%></p>
+        <p style="font-size:14px;margin-top:10px; color: #fff"><strong>CLUB-</strong><%= us[i].club%></p>
+        <p style="font-size:14px;margin-top:10px; color: #fff"><strong>GAME POSITION-</strong><%= us[i].game_position%></p>
+        <p style="font-size:14px;margin-top:10px; color: #fff"><strong>PLACE OF BIRTH-</strong><%= us[i].Placeofbirth %></p>
+        <p style="font-size:14px;margin-top:10px; color: #fff"><strong>DATE OF BIRTH-</strong><%= us[i].Dateofbirth%></p>
+        <form  style="margin-top: 5px; text-align: center" action="/edite" method="post">
+          <select name="vote" value="Vote" style="width:100px; border-radius: 5px" class="vote">
+            <option value="0">0</option>
+            <option value="1">1</option>
+            <option value="2">2</option>
+            <option value="3">3</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+            <option value="6">6</option>
+            <option value="7">7</option>
+            <option value="8">8</option>
+            <option value="9">9</option>
+            <option value="10">10</option>
+          </select><br>
+          <a href=""></a>
+          <button style="width: 70px; height: 30px; border-radius: 5px; background: #00e22d; color: #fff; margin-top: 10px;" type="submit" class="votBtn" onclick="window.location.href= '?id=<%= parseInt(i) + 1%>'">Vote</button>
+        </form>
+    </div>
+  <%}%>
+</div>
+
+<canvas id="bar-chart" width="800" height="450"></canvas>

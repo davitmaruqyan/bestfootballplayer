@@ -1,0 +1,41 @@
+<% layout('layout') -%>
+<div id="login-box">
+  <div class="left">
+    <form action="/register" method="post" class="disabled">
+
+      <input type="text" name="name" placeholder="Name" class="name" />
+      <span class="errName"></span>
+
+
+      <input type="text" name="SurName" placeholder="Surname" class="surname"/>
+      <span class="errSurName"></span>
+
+
+      <input type="text" name="email" placeholder="E-mail" class="email"/>
+      <span class="errEmail"></span>
+
+      <input type="password" name="password" placeholder="Password" class="pass"/>
+      <span class="errPass"></span>
+
+
+      <input type="date" id="datepicker" placeholder="Date of Birth" class="dateBirth">
+      <p class="errDate" style="color:red"></p>
+
+      <div class="gender_logo">
+        Male: <input type="radio" name="gender" value="male">
+        Female: <input type="radio" name="gender" value="female" >
+      </div>
+      <span class="errGender"></span>
+      <button type="submit" name="signup_submit" id="btn">Sign me up</button>
+    </form>
+  </div>
+
+  <div class="right">
+    <span class="loginwith">Sign in with<br />social network</span>
+
+    <button class="social-signin facebook"><a href="/facebook"> Log in with facebook</a></button>
+    <button class="social-signin twitter"><a href="/twitter/login"> Log in with Twitter</a></button>
+    <button class="social-signin google"><a href="/google"> Log in with Google+</a></button>
+  </div>
+  <div class="or">OR</div>
+</div>

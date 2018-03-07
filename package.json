@@ -1,0 +1,28 @@
+{
+  "name": "bestfootballplayer",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "nodemon ./bin/www"
+  },
+  "dependencies": {
+    "body-parser": "~1.18.2",
+    "chart.js": "^2.7.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.9",
+    "ejs": "~2.5.7",
+    "ejs-mate": "^2.3.0",
+    "express": "~4.15.5",
+    "express-session": "^1.15.6",
+    "jquery": "^3.2.1",
+    "morgan": "~1.9.0",
+    "mysql2": "^1.5.1",
+    "nodemon": "^1.14.3",
+    "passport": "^0.4.0",
+    "passport-facebook": "^2.1.1",
+    "passport-google-oauth": "^1.0.0",
+    "passport-twitter": "^1.0.4",
+    "sequelize": "^4.32.1",
+    "serve-favicon": "~2.4.5"
+  }
+}

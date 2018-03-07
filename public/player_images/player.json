@@ -1,0 +1,335 @@
+{
+  "name":"Cristiano Ronaldo",
+  "image":"forward/cristiano.jpg",
+  "club": "	Real Madrid",
+  "game_position":"FW",
+  "Place of birth":"	Funchal, Madeira, Portugal",
+  "Date of birth":"5 February 1985",
+  "appraisal": 0,
+  "middle": 0,
+  "biography": "biography"
+},
+
+{
+  "name":"Kylian Mbappé",
+  "image":"forward/mbappe.jpg",
+  "club": "Paris Saint-Germain",
+  "game_position":"FW",
+  "Place of birth":"Paris, France",
+  "Date of birth":"20 December 1998",
+  "appraisal": 0,
+  "middle": 0,
+  "biography": "Biography"
+},
+
+{
+  "name":"Gareth Bale",
+  "image":"forward/bale.jpg",
+  "club": "Real Madrid",
+  "game_position":"FW",
+  "Place of birth":"Cardiff, Wales",
+  "Date of birth":"16 July 1989",
+  "appraisal": 0,
+  "middle": 0,
+  "biography": "Biography"
+},
+
+{
+  "name":"Harry Kane",
+  "image":"forward/harry_kane.jpg",
+  "club": "Tottenham Hotspur",
+  "game_position":"FW",
+  "Place of birth":"Walthamstow, England",
+  "Date of birth":"28 July 1993",
+  "appraisal": 0,
+  "middle": 0,
+  "biography": "Biography"
+},
+
+{
+  "name":"Lionel Messi",
+  "image":"forward/messi.jpg",
+  "club": "Barcelona",
+  "game_position":"FW",
+  "Place of birth":"Rosario, Argentina",
+  "Date of birth":"24 June 1987",
+  "appraisal": 0,
+  "middle": 0,
+  "biography": "Biography"
+},
+
+{
+  "name":"Álvaro Morata",
+  "image":"forward/morata.jpg",
+  "club": "Chelsea",
+  "game_position":"FW",
+  "Place of birth":"Madrid, Spain",
+  "Date of birth":"23 October 1992",
+  "appraisal": 0,
+  "middle": 0,
+  "biography": "Biography"
+},
+
+{
+  "name":"Neymar",
+  "image":"forward/neymar.jpg",
+  "club": "Paris Saint-Germain",
+  "game_position":"FW",
+  "Place of birth":"Mogi das Cruzes, Brazil",
+  "Date of birth":"5 February 1992",
+  "appraisal": 0,
+  "middle": 0,
+  "biography": "Biography"
+},
+
+{
+  "name":"Ronaldo",
+  "image":"forward/ronaldo.jpg",
+  "club": "	Real Madrid",
+  "game_position":"FW",
+  "Place of birth":"Rio de Janeiro, Brazil",
+  "Date of birth":"18 September 1976",
+  "appraisal": 0,
+  "middle": 0,
+  "biography": "Biography"
+},
+
+{
+  "name":"Marco Asensio",
+  "image":"midfielder/asensio.jpg",
+  "club": "Real Madrid",
+  "game_position":"MF",
+  "Place of birth":"Palma, Spain",
+  "Date of birth":"21 January 1996",
+  "appraisal": 0,
+  "middle": 0,
+  "biography": "Biography"
+},
+
+{
+  "name":"Andrés Iniesta",
+  "image":"midfielder/iniesta.jpg",
+  "club": "Barcelona",
+  "game_position":"MF",
+  "Place of birth":"Fuentealbilla, Spain",
+  "Date of birth":"11 May 1984",
+  "appraisal": 0,
+  "middle": 0,
+  "biography": "Biography"
+},
+
+{
+  "name":"Philippe Coutinho",
+  "image":"midfielder/koutino.jpg",
+  "club": "	Barcelona",
+  "game_position":"MF",
+  "Place of birth":"Rio de Janeiro, Brazil",
+  "Date of birth":"20 December 1998",
+  "appraisal": 0,
+  "middle": 0,
+  "biography": "Biography"
+},
+
+{
+  "name":"Henrikh Mkhitaryan",
+  "image":"midfielder/mkhitaryan.jpg",
+  "club": "	Arsenal",
+  "game_position":"MF",
+  "Place of birth":"Yerevan, Armenian SSR",
+  "Date of birth":"21 January 1989",
+  "appraisal": 0,
+  "middle": 0,
+  "biography": "Biography"
+},
+
+{
+  "name":"Paul Pogba",
+  "image":"midfielder/pogba.jpg",
+  "club": "	Manchester United",
+  "game_position":"MF",
+  "Place of birth":"Lagny-sur-Marne, France",
+  "Date of birth":"15 March 1993",
+  "appraisal": 0,
+  "middle": 0,
+  "biography": "Biography"
+},
+
+{
+  "name":"Luka Modrić",
+  "image":"midfielder/modric.jpg",
+  "club": "Real Madrid",
+  "game_position":"MF",
+  "Place of birth":"Zadar, SFR Yugoslavia",
+  "Date of birth":"20 December 1998",
+  "appraisal": 0,
+  "middle": 0,
+  "biography": "Biography"
+},
+
+{
+  "name":"Ronaldinho",
+  "image":"midfielder/ronaldinho.jpg",
+  "club": "Barcelona",
+  "game_position":"MF",
+  "Place of birth":"Porto Alegre, Brazil",
+  "Date of birth":"21 March 1980",
+  "appraisal": 0,
+  "middle": 0,
+  "biography": "Biography"
+},
+
+{
+  "name":"Zinedine Zidane",
+  "image":"midfielder/zidane.jpg",
+  "club": "	Real Madrid",
+  "game_position":"MF",
+  "Place of birth":"Marseille, France",
+  "Date of birth":"23 June 1972",
+  "appraisal": 0,
+  "middle": 0,
+  "biography": "Biography"
+},
+
+{
+  "name":"David Luiz",
+  "image":"quoterback/david_luis.jpg",
+  "club": "Chelsea",
+  "game_position":"QB",
+  "Place of birth":"Diadema, Brazil",
+  "Date of birth":"22 April 1987",
+  "appraisal": 0,
+  "middle": 0,
+  "biography": "Biography"
+},
+
+{
+  "name":"John Terry",
+  "image":"quoterback/john_terry.jpg",
+  "club": "	Chelsea",
+  "game_position":"QB",
+  "Place of birth":"Barking, England",
+  "Date of birth":"7 December 1980",
+  "appraisal": 0,
+  "middle": 0,
+  "biography": "Biography"
+},
+
+{
+  "name":"Marcelo",
+  "image":"quoterback/marcelo.jpg",
+  "club": "Real Madrid",
+  "game_position":"QB",
+  "Place of birth":"Rio de Janeiro, Brazil",
+  "Date of birth":"12 May 1988",
+  "appraisal": 0,
+  "middle": 0,
+  "biography": "Biography"
+},
+
+{
+  "name":"Pepe",
+  "image":"quoterback/pepe.jpg",
+  "club": "Real Madrid",
+  "game_position":"QB",
+  "Place of birth":"Maceió, Brazil",
+  "Date of birth":"26 February 1983",
+  "appraisal": 0,
+  "middle": 0,
+  "biography": "Biography"
+},
+
+{
+  "name":"Gerard Piqué",
+  "image":"quoterback/pique.jpg",
+  "club": "Barcelona",
+  "game_position":"QB",
+  "Place of birth":"Barcelona, Spain",
+  "Date of birth":"2 February 1987",
+  "appraisal": 0,
+  "middle": 0,
+  "biography": "Biography"
+},
+
+{
+  "name":"Sergio Ramos",
+  "image":"quoterback/ramos.jpg",
+  "club": "Real Madrid",
+  "game_position":"QB",
+  "Place of birth":"Camas, Spain",
+  "Date of birth":"30 March 1986",
+  "appraisal": 0,
+  "middle": 0,
+  "biography": "Biography"
+},
+
+{
+  "name":"Gianluigi Buffon",
+  "image":"golkiper/buffon.jpg",
+  "club": "Juventus",
+  "game_position":"GK",
+  "Place of birth":"Carrara, Italy",
+  "Date of birth":"28 January 1978",
+  "appraisal": 0,
+  "middle": 0,
+  "biography": "Biography"
+},
+
+{
+  "name":"Iker Casillas",
+  "image":"golkiper/casillas.jpg",
+  "club": "Real Madrid",
+  "game_position":"GK",
+  "Place of birth":"Móstoles, Spain",
+  "Date of birth":"20 May 1981",
+  "appraisal": 0,
+  "middle": 0,
+  "biography": "Biography"
+},
+
+{
+  "name":"Petr Čech",
+  "image":"golkiper/chex.jpg",
+  "club": "Arsenal",
+  "game_position":"GK",
+  "Place of birth":"Plzeň, Czechoslovakia",
+  "Date of birth":"20 May 1982",
+  "appraisal": 0,
+  "middle": 0,
+  "biography": "Biography"
+},
+
+{
+  "name":"David de Gea",
+  "image":"golkiper/de_gea.jpg",
+  "club": "Manchester United",
+  "game_position":"GK",
+  "Place of birth":"Madrid, Spain",
+  "Date of birth":"7 November 1990",
+  "appraisal": 0,
+  "middle": 0,
+  "biography": "Biography"
+},
+
+{
+  "name":"Keylor Navas",
+  "image":"golkiper/navas.jpg",
+  "club": "Real Madrid",
+  "game_position":"GK",
+  "Place of birth":"Pérez Zeledón, Costa Rica",
+  "Date of birth":"15 December 1986 ",
+  "appraisal": 0,
+  "middle": 0,
+  "biography": "Biography"
+},
+
+{
+  "name":"Manuel Neuer",
+  "image":"golkiper/noyer.jpg",
+  "club": "Bayern Munich",
+  "game_position":"GK",
+  "Place of birth":"Gelsenkirchen, West Germany",
+  "Date of birth":"27 March 1986",
+  "appraisal": 0,
+  "middle": 0,
+  "biography": "Biography"
+},
